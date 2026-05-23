@@ -84,7 +84,8 @@ TV Show Momentum returned in 2020 and held through 2021
 confirming Netflix's long term pivot toward retention
 driven TV content.
 
-[Theme 1](images/theme_01_content_format_strat.png)
+
+![Theme 1](images/theme_01_content_format_strategy.png)
 
 ---
 
@@ -110,7 +111,7 @@ catalogs or funding expensive new originals?
 modern platform not a cheap vintage catalog service.
 
 
-![Theme 3](images/theme_03_legacy_vs_modern_li.png)
+![Theme 3](images/theme_03_legacy_vs_modern_library.png)
 
 ---
 
