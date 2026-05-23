@@ -84,7 +84,7 @@ TV Show Momentum returned in 2020 and held through 2021
 confirming Netflix's long term pivot toward retention
 driven TV content.
 
-![Theme 1](images/theme_01_content_format_strategy.png)
+[Theme 1](images/theme_01_content_format_strat.png)
 
 ---
 
@@ -95,6 +95,7 @@ content or cheap old catalogs?
 **Key Insight:** 63% of Netflix content arrives within
 2 years of its original release confirming premium
 acquisition strategy. Only 13.72% is vintage content.
+
 
 ![Theme 2](images/theme_02_speed_to_platform.png)
 
@@ -108,7 +109,8 @@ catalogs or funding expensive new originals?
 2010 onwards. Netflix positions itself as a premium
 modern platform not a cheap vintage catalog service.
 
-![Theme 3](images/theme_03_legacy_vs_modern_library.png)
+
+![Theme 3](images/theme_03_legacy_vs_modern_li.png)
 
 ---
 
@@ -120,7 +122,8 @@ match shrinking attention spans?
 over 20 years from 111 mins in 2000 to historic low
 of 93 mins in 2019.
 
-![Theme 7](images/theme_07_feature_film_pacing.png)
+
+![Theme 7](images/theme_07_feature_film_p.png)
 
 ---
 
