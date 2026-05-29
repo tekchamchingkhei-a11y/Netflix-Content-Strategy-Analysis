@@ -332,7 +332,7 @@ Netflix-Content-Strategy-Analysis/
 **Tekchamchingkhei**
 Data Analyst | Python | SQL | Power BI
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chingkheinganba-meitei-8208a624a)
+🔗 [Linkedin] www.linkedin.com/in/tekchamchingkheinganbameitei
 🐱 [GitHub](https://github.com/tekchamchingkhei-a11y)
 
 ---
